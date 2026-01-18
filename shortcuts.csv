@@ -1,0 +1,263 @@
+Control,Shortcut
+Play/Pause,Space
+Stop,K
+Rewind,J
+Fast Forward,L
+Mark In,I
+Mark Out,O
+Cut,Ctrl+B
+Next Edit,PageDown
+Prev Edit,PageUp
+Undo,Ctrl+Z
+Redo,Ctrl+Y
+Zoom In,=
+Zoom Out,-
+Fit to Fill,Shift+Z
+Full Screen,F
+Add Marker,M
+Go to Next Marker,Shift+M
+Ripple Delete,X
+Slip Left,Q
+Slip Right,W
+Roll Left,A
+Roll Right,S
+Trim In,[
+Trim Out,]
+Smart Insert,1
+Append to End,2
+Ripple Overwrite,3
+Place on Top,4
+Source Overwrite,5
+Fit to Fill,Shift+Z
+Zoom to Fit,Shift+Z
+Audio Level,Shift+G
+Add Transition,T
+Split Clip,Ctrl+T
+Move Clip,V
+Select All,Ctrl+A
+Copy,Ctrl+C
+Paste,Ctrl+V
+Delete,Delete
+Duplicate Clip,Ctrl+D
+Group,Ctrl+G
+Ungroup,Ctrl+Shift+G
+Lock Track,Ctrl+L
+Unlock Track,Ctrl+Shift+L
+Solo Track,S
+Mute Track,M
+Record Arm,R
+Enable Track,E
+Disable Track,D
+Show/Hide Tracks,H
+Show/Hide Inspector,I
+Show/Hide Thumbnail Timeline,T
+Show/Hide Color Page,C
+Show/Hide Edit Page,E
+Show/Hide Fusion Page,F
+Show/Hide Fairlight Page,A
+Show/Hide Deliver Page,D
+New Project,Ctrl+N
+Open Project,Ctrl+O
+Save Project,Ctrl+S
+Export,Shift+Cmd+E
+Import Media,Ctrl+I
+New Timeline,Ctrl+T
+Duplicate Timeline,Ctrl+D
+Delete Timeline,Delete
+Rename Timeline,F2
+Show/Hide Timeline,Shift+T
+Show/Hide Viewer,V
+Show/Hide Browser,B
+Show/Hide Inspector,I
+Show/Hide Color Wheels,W
+Show/Hide Curves,C
+Show/Hide LUT,L
+Show/Hide Scopes,S
+Show/Hide Histogram,H
+Show/Hide Vectorscope,V
+Show/Hide Waveform,W
+Reset Color,Ctrl+R
+Auto Color,Ctrl+U
+Match Color,Shift+Cmd+M
+Add Node,Ctrl+N
+Delete Node,Delete
+Connect Nodes,Ctrl+L
+Disconnect Nodes,Ctrl+Shift+L
+Solo Node,S
+Mute Node,M
+Enable Node,E
+Disable Node,D
+Show/Hide Node Editor,N
+Show/Hide Keyframes,K
+Add Keyframe,Ctrl+K
+Delete Keyframe,Delete
+Copy Keyframe,Ctrl+C
+Paste Keyframe,Ctrl+V
+Select All Keyframes,Ctrl+A
+Deselect All Keyframes,Ctrl+Shift+A
+Show/Hide Animation Editor,A
+Show/Hide Curve Editor,C
+Show/Hide Dope Sheet,D
+Add Effect,Ctrl+E
+Delete Effect,Delete
+Enable Effect,E
+Disable Effect,D
+Show/Hide Effect Controls,Ctrl+I
+Show/Hide Effect Editor,E
+Add Transition,Ctrl+T
+Delete Transition,Delete
+Enable Transition,E
+Disable Transition,D
+Show/Hide Transition Editor,T
+Add Title,Ctrl+T
+Delete Title,Delete
+Edit Title,Enter
+Show/Hide Title Editor,T
+Add Subtitle,Ctrl+S
+Delete Subtitle,Delete
+Edit Subtitle,Enter
+Show/Hide Subtitle Editor,S
+Add Marker,Ctrl+M
+Delete Marker,Delete
+Edit Marker,Enter
+Go to Next Marker,Shift+M
+Go to Previous Marker,Shift+Cmd+M
+Show/Hide Markers,M
+Add Chapter,Ctrl+C
+Delete Chapter,Delete
+Edit Chapter,Enter
+Go to Next Chapter,Shift+C
+Go to Previous Chapter,Shift+Cmd+C
+Show/Hide Chapters,C
+Add Note,Ctrl+N
+Delete Note,Delete
+Edit Note,Enter
+Show/Hide Notes,N
+Add Clip,Ctrl+C
+Delete Clip,Delete
+Edit Clip,Enter
+Duplicate Clip,Ctrl+D
+Split Clip,Ctrl+T
+Join Clips,Ctrl+J
+Ripple Delete,X
+Slip Left,Q
+Slip Right,W
+Roll Left,A
+Roll Right,S
+Trim In,[
+Trim Out,]
+Extend Edit,E
+Trim Edit,T
+Slip Edit,S
+Roll Edit,R
+Slide Edit,L
+Smart Insert,1
+Append to End,2
+Ripple Overwrite,3
+Place on Top,4
+Source Overwrite,5
+Fit to Fill,Shift+Z
+Zoom to Fit,Shift+Z
+Audio Level,Shift+G
+Add Transition,T
+Split Clip,Ctrl+T
+Move Clip,V
+Select All,Ctrl+A
+Copy,Ctrl+C
+Paste,Ctrl+V
+Delete,Delete
+Duplicate Clip,Ctrl+D
+Group,Ctrl+G
+Ungroup,Ctrl+Shift+G
+Lock Track,Ctrl+L
+Unlock Track,Ctrl+Shift+L
+Solo Track,S
+Mute Track,M
+Record Arm,R
+Enable Track,E
+Disable Track,D
+Show/Hide Tracks,H
+Show/Hide Inspector,I
+Show/Hide Thumbnail Timeline,T
+Show/Hide Color Page,C
+Show/Hide Edit Page,E
+Show/Hide Fusion Page,F
+Show/Hide Fairlight Page,A
+Show/Hide Deliver Page,D
+New Project,Ctrl+N
+Open Project,Ctrl+O
+Save Project,Ctrl+S
+Export,Shift+Cmd+E
+Import Media,Ctrl+I
+New Timeline,Ctrl+T
+Duplicate Timeline,Ctrl+D
+Delete Timeline,Delete
+Rename Timeline,F2
+Show/Hide Timeline,Shift+T
+Show/Hide Viewer,V
+Show/Hide Browser,B
+Show/Hide Inspector,I
+Show/Hide Color Wheels,W
+Show/Hide Curves,C
+Show/Hide LUT,L
+Show/Hide Scopes,S
+Show/Hide Histogram,H
+Show/Hide Vectorscope,V
+Show/Hide Waveform,W
+Reset Color,Ctrl+R
+Auto Color,Ctrl+U
+Match Color,Shift+Cmd+M
+Add Node,Ctrl+N
+Delete Node,Delete
+Connect Nodes,Ctrl+L
+Disconnect Nodes,Ctrl+Shift+L
+Solo Node,S
+Mute Node,M
+Enable Node,E
+Disable Node,D
+Show/Hide Node Editor,N
+Show/Hide Keyframes,K
+Add Keyframe,Ctrl+K
+Delete Keyframe,Delete
+Copy Keyframe,Ctrl+C
+Paste Keyframe,Ctrl+V
+Select All Keyframes,Ctrl+A
+Deselect All Keyframes,Ctrl+Shift+A
+Show/Hide Animation Editor,A
+Show/Hide Curve Editor,C
+Show/Hide Dope Sheet,D
+Add Effect,Ctrl+E
+Delete Effect,Delete
+Enable Effect,E
+Disable Effect,D
+Show/Hide Effect Controls,Ctrl+I
+Show/Hide Effect Editor,E
+Add Transition,Ctrl+T
+Delete Transition,Delete
+Enable Transition,E
+Disable Transition,D
+Show/Hide Transition Editor,T
+Add Title,Ctrl+T
+Delete Title,Delete
+Edit Title,Enter
+Show/Hide Title Editor,T
+Add Subtitle,Ctrl+S
+Delete Subtitle,Delete
+Edit Subtitle,Enter
+Show/Hide Subtitle Editor,S
+Add Marker,Ctrl+M
+Delete Marker,Delete
+Edit Marker,Enter
+Go to Next Marker,Shift+M
+Go to Previous Marker,Shift+Cmd+M
+Show/Hide Markers,M
+Add Chapter,Ctrl+C
+Delete Chapter,Delete
+Edit Chapter,Enter
+Go to Next Chapter,Shift+C
+Go to Previous Chapter,Shift+Cmd+C
+Show/Hide Chapters,C
+Add Note,Ctrl+N
+Delete Note,Delete
+Edit Note,Enter
+Show/Hide Notes,N
